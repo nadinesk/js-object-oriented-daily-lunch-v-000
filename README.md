@@ -1,4 +1,4 @@
-# Daily Lunch Lab
+e link # Daily Lunch Lab
 
 ## Objectives
 + Build a domain model with class relations using JavaScript iterator methods
